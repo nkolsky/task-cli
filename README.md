@@ -2,7 +2,7 @@
 
 A simple command-line tool for managing tasks, including adding, listing, updating, and deleting tasks. Tasks are saved to a JSON file, preserving data between sessions.
 
-This project is from: https://roadmap.sh/projects/task-tracker
+This project is based on the challenge from: https://roadmap.sh/projects/task-tracker
 
 ## Features
 - **Add** new tasks with unique IDs
